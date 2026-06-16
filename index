@@ -7,30 +7,30 @@
     <style>
         header{
             background-color: #141F19;
-            color: #A6FBFB;
+            color: #4e57c8;
             text-align: center;
             max-width: 800px;
             margin: 0 auto;
             padding: 16px;
             border: 6px solid
-          #0d8846;
+          #000000;
     }
     main{
-        background-color: #A6FBFB;
-        color:#141F19;
+        background-color: #1b1bba;
+        color:#ffffff;
         text-align: center;
         max-width: 800px;
         margin: 0 auto;
         padding: 16px;
         border: 6px solid
-        #141F19;
+        #006ff7;
         
     }
     img{
         width: 80px;
         height: 80px;
         border: 4px solid
-        #141F19;
+        #ffffff;
     }
     p{
         font-weight: bold;
