@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tesla</title>
+    <title>Sócrates</title>
     <style>
         header{
             background-color: #141F19;
@@ -28,66 +28,28 @@
     }
     img{
         width: 80px;
-    }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Tesla</h1>
-    <p>Um cara bem bagua</p>
-    </header>
-    <main>
-        <img src="<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tesla</title>
-    <style>
-        header{
-            background-color: #141F19;
-            color: #A6FBFB;
-            text-align: center;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 16px;
-            border: 6px solid
-          #0d8846;
-    }
-    main{
-        background-color: #A6FBFB;
-        color:#141F19;
-        text-align: center;
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 16px;
-        border: 6px solid
+        height: 80px;
+        border: 4px solid
         #141F19;
-        
     }
-    img{
-        width: 80px;
+    p{
+        font-weight: bold;
     }
     </style>
 </head>
 <body>
     <header>
-        <h1>Tesla</h1>
+        <h1>Sócrates</h1>
     <p>Um cara bem bagua</p>
     </header>
     <main>
         <img src="Sócrates.jpg" alt="
         **Alt Text:** Pixel art com o tema Frutiger Aero Aqua centralizada no filósofo Sócrates. No centro, Sócrates está dentro de uma grande bolha d'água transparente e brilhante, sentado em uma cadeira e segurando um pergaminho. Ele tem uma barba grisalha e veste uma túnica verde. O cenário ao fundo simula um ambiente subaquático digital com peixes pixelados, algas e bolhas menores flutuando. Na parte superior, a palavra "SÓCRATES" está escrita em uma fonte estilizada de videogame antigo. A paleta de cores é restrita a três tons: um fundo verde-escuro quase preto (`#141F19`), detalhes e iluminação em ciano brilhante (`#A6FBFB`) e tons médios em verde-bandeira (`#0d8846`).">
-        <h2>Conheça a vida de Nikola Tesla </h2>
-        <p>Por: Pedro Miguel Furman</p>
-    </main>
-</header>
-</body>
-</html>
-<img src="" alt="">
-        **Alt Text:** Pixel art com o tema Frutiger Aero Aqua centralizada no filósofo Sócrates. No centro(`#0d8846`).">
-        <h2>Conheça a vida de Nikola Tesla </h2>
-        <p>Por: Pedro Miguel Furman</p>
+        <div>
+        <h2>Conheça a trajetória de Sócrates </h2>
+        <p>Por: Wesley Sales</p>
+        </div>
+        
     </main>
 </header>
 </body>
